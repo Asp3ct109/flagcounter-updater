@@ -3,7 +3,7 @@ import os
 from hashlib import md5
 
 # Your FlagCounter CGI link
-url = "https://info.flagcounter.com/wKKu"
+url = "[URL=https://info.flagcounter.com/xn0k][IMG]https://s01.flagcounter.com/count2/xn0k/bg_22C29F/txt_85F2C7/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_1/pageviews_1/flags_0/percent_0/[/IMG][/URL]"
 output_file = "flagcounter.png"
 temp_file = "temp_flagcounter.png"
 
